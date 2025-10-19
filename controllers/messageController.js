@@ -1,4 +1,4 @@
-import { type } from "@testing-library/user-event/dist/cjs/utility/type.js";
+
 import { admin } from "../firebaseAdmin.js";
 import { encryptMessage, decryptMessage } from "./messageEncryptionController.js";
 
